@@ -1,4 +1,3 @@
-Cache-Coherence-Simulator by Python
 ![title](https://github.com/XavierWangHX/Cache-Coherence-Simulator/blob/main/img/title.png) 
 Run Demo：python main.py MESI overlap 4096 2 16
 
