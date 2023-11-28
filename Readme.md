@@ -1,7 +1,8 @@
-# Cache-Coherence-Simulator by Python
+Cache-Coherence-Simulator by Python
 ![title](https://github.com/XavierWangHX/Cache-Coherence-Simulator/blob/main/img/title.png) 
-## Run Demo：python main.py MESI overlap 4096 2 16
-### Cycles 0
+Run Demo：python main.py MESI overlap 4096 2 16
+
+Cycles 0
 7 10 1 1
 Stat 1: (Exec time)
 | Core 0: 507 cycle(s) | Core 1: 1011 cycle(s) | Core 2: 1 cycle(s) | Core 3: 50 cycle(s) |
@@ -28,6 +29,7 @@ Stat 7: (Invalidation / Update / Write-back)
 Stat 8: (Private access distribution)
 | Core 0: 4 / 4 = 100.00% | Core 1: 5 / 6 = 83.33% | Core 2: 0 / 0 = Nan | Core 3: 0 / 0 = Nan |
 Total : 9 / 10 = 90.00%
+
 ![black](https://github.com/XavierWangHX/Cache-Coherence-Simulator/blob/main/img/black.png) 
 ![body](https://github.com/XavierWangHX/Cache-Coherence-Simulator/blob/main/img/body.png) 
 ![fluid](https://github.com/XavierWangHX/Cache-Coherence-Simulator/blob/main/img/fluid.png) 
