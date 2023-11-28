@@ -1,9 +1,11 @@
 ![title](https://github.com/XavierWangHX/Cache-Coherence-Simulator/blob/main/img/title.png) 
+
 Run Demo：python main.py MESI overlap 4096 2 16
 
 Cycles 0
 7 10 1 1
 Stat 1: (Exec time)
+
 | Core 0: 507 cycle(s) | Core 1: 1011 cycle(s) | Core 2: 1 cycle(s) | Core 3: 50 cycle(s) |
 Total: 1011 cycle(s)
 ------------------------------------
