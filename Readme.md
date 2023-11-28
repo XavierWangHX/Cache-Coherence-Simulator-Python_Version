@@ -32,7 +32,7 @@ Invalidation: 2 time(s) | Update: 0 time(s) | Write-back: 7 time(s) |
 Stat 8: (Private access distribution)  
 Core 0: 4 / 4 = 100.00% | Core 1: 5 / 6 = 83.33% | Core 2: 0 / 0 = Nan | Core 3: 0 / 0 = Nan |  
 Total : 9 / 10 = 90.00%
-'''
+
 
 ![black](https://github.com/XavierWangHX/Cache-Coherence-Simulator/blob/main/img/black.png) 
 ![body](https://github.com/XavierWangHX/Cache-Coherence-Simulator/blob/main/img/body.png) 
